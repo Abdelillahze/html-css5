@@ -190,8 +190,8 @@ section .image img {
 
 .section2 .container .col:first-of-type .image {
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-start;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .section2 .container .col .image img {
