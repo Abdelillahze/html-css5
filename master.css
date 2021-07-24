@@ -147,7 +147,7 @@ section .col1 p span {
 
 section .image {
     width: 50%;
-    text-align: end;
+    text-align: start;
 }
 
 section .image img {
@@ -191,7 +191,7 @@ section .image img {
 .section2 .container .col:first-of-type .image {
     display: flex;
     justify-content: flex-end;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .section2 .container .col .image img {
